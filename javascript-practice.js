@@ -18,7 +18,7 @@ function isPrime(num){
         } 
     }
 }
-
+// print prime numbers from 1 - 100
 for(i = 0; i < 30; i++){
     console.log(isPrime(i))
 }
